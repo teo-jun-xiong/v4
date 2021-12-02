@@ -8,7 +8,7 @@ tech:
   - React.js
   - Django
   - AWS
-showInProjects: true
+showInProjects: false
 ---
 
 A Progressive Web App to facilitate commuting within NUS using the internal shuttle bus system, aimed to assist freshmen and those who've been schooling from home during the pandemic.

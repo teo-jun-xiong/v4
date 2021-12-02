@@ -1,10 +1,11 @@
 ---
-date: '2019-08-27'
-title: 'wing it!'
-github: 'https://github.com/teo-jun-xiong/wing_it'
+date: '2019-01-31'
+title: 'Spreent'
+github: 'https://github.com/teo-jun-xiong/Spreent-Bot'
 tech:
-  - Java
+  - Python
+  - Telegram API
 showInProjects: true
 ---
 
-wing it! is an Android app created with the idea that time spent travelling is precious and memorable, and should not be wasted as a result of inefficient planning. It allows users to customise their trip to ensure that they are able to visit all their places of interest.
+A Telegram bot that connects shoppers to hit the minimum spending requirements for discounts.
